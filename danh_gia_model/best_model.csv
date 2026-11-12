@@ -1,0 +1,4 @@
+﻿best_model,class,auc
+Random Forest,Healthy,0.9686391457054897
+Random Forest,Less Healthy,0.9793647729362015
+Random Forest,Moderate,0.9018661460498804

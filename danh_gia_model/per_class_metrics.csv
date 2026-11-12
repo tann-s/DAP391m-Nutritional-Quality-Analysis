@@ -1,0 +1,7 @@
+﻿Mô hình,Nhãn,Precision,Recall,F1,Support
+Logistic Regression,Healthy,0.8499,0.8574,0.8536,687
+Logistic Regression,Moderate,0.6173,0.5414,0.5768,423
+Logistic Regression,Less Healthy,0.8153,0.8918,0.8519,490
+Random Forest,Healthy,0.9206,0.8443,0.8808,687
+Random Forest,Moderate,0.6908,0.7447,0.7167,423
+Random Forest,Less Healthy,0.8619,0.9041,0.8825,490
