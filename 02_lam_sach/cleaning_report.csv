@@ -1,0 +1,10 @@
+﻿step,rows_after,removed,note
+Đọc dữ liệu thô,11301,0,
+Bỏ mã vạch không phải số + bỏ trùng mã vạch,11301,0,
+Bỏ mã vạch sai độ dài (< 8 hoặc > 14 chữ số),10979,322,
+Bỏ sản phẩm không có tên hợp lệ,10775,204,
+Giữ sản phẩm bán tại 5 quốc gia mục tiêu,8940,1835,
+Bỏ bản ghi có giá trị phi vật lý,8899,41,41 dòng
+Bỏ bản ghi thiếu > 0 chỉ số trọng yếu,8103,796,"trọng yếu = năng lượng, béo, béo bão hòa, đường, muối, đạm"
+Bỏ bản ghi năng lượng mâu thuẫn với thành phần (Atwater),8054,49,49 dòng
+Bỏ bản ghi trùng nội dung (cùng tên + hãng + dinh dưỡng),7999,55,
